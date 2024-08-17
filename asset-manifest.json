@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Cognisoft-Clone-UI-using-React/static/css/main.e26cf133.css",
+    "main.js": "/Cognisoft-Clone-UI-using-React/static/js/main.d9ce5086.js",
+    "static/media/h8-bg-section-03.jpg": "/Cognisoft-Clone-UI-using-React/static/media/h8-bg-section-03.ddab6ecafa5b24579080.jpg",
+    "static/media/logo.jpg": "/Cognisoft-Clone-UI-using-React/static/media/logo.535921b16ad1c2fedf27.jpg",
+    "static/media/bg-footer1.jpg": "/Cognisoft-Clone-UI-using-React/static/media/bg-footer1.dd588a32bbaf111ba312.jpg",
+    "index.html": "/Cognisoft-Clone-UI-using-React/index.html",
+    "main.e26cf133.css.map": "/Cognisoft-Clone-UI-using-React/static/css/main.e26cf133.css.map",
+    "main.d9ce5086.js.map": "/Cognisoft-Clone-UI-using-React/static/js/main.d9ce5086.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e26cf133.css",
+    "static/js/main.d9ce5086.js"
+  ]
+}
